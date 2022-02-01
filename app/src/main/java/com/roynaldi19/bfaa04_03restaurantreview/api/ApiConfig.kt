@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa04_03restaurantreview
+package com.roynaldi19.bfaa04_03restaurantreview.api
 
 import androidx.viewbinding.BuildConfig
 import okhttp3.OkHttpClient

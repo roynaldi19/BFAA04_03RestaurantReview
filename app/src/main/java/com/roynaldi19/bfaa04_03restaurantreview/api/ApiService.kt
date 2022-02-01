@@ -1,5 +1,7 @@
-package com.roynaldi19.bfaa04_03restaurantreview
+package com.roynaldi19.bfaa04_03restaurantreview.api
 
+import com.roynaldi19.bfaa04_03restaurantreview.PostReviewResponse
+import com.roynaldi19.bfaa04_03restaurantreview.RestaurantResponse
 import retrofit2.Call
 import retrofit2.http.*
 
