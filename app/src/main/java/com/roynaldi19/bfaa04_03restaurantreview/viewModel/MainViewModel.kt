@@ -12,7 +12,6 @@ import retrofit2.Callback
 import retrofit2.Response
 
 class MainViewModel : ViewModel() {
-
     private val _restaurant = MutableLiveData<Restaurant>()
     val restaurant: LiveData<Restaurant> = _restaurant
 
@@ -81,5 +80,4 @@ class MainViewModel : ViewModel() {
             }
         })
     }
-
 }
